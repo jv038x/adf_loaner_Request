@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="return_reminder" label="Return reminder" language="en" table="x_cdltd_loaner_req_loaner_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>return_reminder</element>
+            <help/>
+            <hint/>
+            <label>Return reminder</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <plural>Return reminders</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-11 19:20:06</sys_created_on>
+            <sys_id>fec87607f8c669107f44b7af24bca04a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Return reminder</sys_name>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">c11b2e7cf80261107f44b7af24bca0ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">c11b2e7cf80261107f44b7af24bca0ba</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_loaner_req_loaner_request_return_reminder_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-11 19:20:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
